@@ -13,9 +13,9 @@ Created this blog because I come across the idea of "you can only write about th
 I do a lot of things that always ended up just forgetting about and not sharing them with anybody.
 
 
-### My interest are:
+### I am interest on:
 - Software
 - Math
-- Linux
+- Open Source Software
 
 Feel free to email me using this [link](mailto:geordanipinales@gmail.com)
