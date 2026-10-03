@@ -8,10 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Resume"
-    url: /assets/GeordannySoto_Resume26.pdf
-    new_tab: true
-
   # - title: "Talks"
   #   url: /talks/    
 

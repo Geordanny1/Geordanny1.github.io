@@ -12,8 +12,8 @@ of creating a "perfect" blog. This resulted on archiving nothing. Pretty much ov
 
 The tools and themes I used in the past:
 - [11ty](https://www.11ty.dev/){:target="_blank"} with [Starter Template](https://github.com/11ty/eleventy-base-blog){:target="_blank"}
-- [Pelican](https://getpelican.com/){:target="_blank"}with the [Simple Theme](https://github.com/getpelican/pelican/tree/main/pelican/themes/simple/templates){:target="_blank"}
-- [Eleventy](https://www.11ty.dev/){:target="_blank"}with the [Eleventy Excellent Theme](https://eleventy-excellent.netlify.app/){:target="_blank"}
+- [Pelican](https://getpelican.com/){:target="_blank"} with the [Simple Theme](https://github.com/getpelican/pelican/tree/main/pelican/themes/simple/templates){:target="_blank"}
+- [Eleventy](https://www.11ty.dev/){:target="_blank"} with the [Eleventy Excellent Theme](https://eleventy-excellent.netlify.app/){:target="_blank"}
 
 Every single of this themes are amazing, but I didn't feel comfortable with any.
 
