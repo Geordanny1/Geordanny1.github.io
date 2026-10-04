@@ -15,6 +15,8 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
+
+  {% if page.url == "/"%}
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
@@ -39,6 +41,8 @@ layout: default
 
         </header>
       {% endunless %}
+
+      {% endif %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
